@@ -1,0 +1,12 @@
+{
+    "name": "mongopromise",
+    "version": "0.0.1",
+    "main": "./mongopromise.js",
+    "dependencies": {
+        "vow": "",
+        "mongoskin": ""
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    }
+}
