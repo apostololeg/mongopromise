@@ -62,3 +62,6 @@ Link of the chain of asynchronous method calls collections.
   * ``data`` – result of executing a getter-methods
 * ``method`` – method of collection to be executed asynchronously after the previous one in the chain
 * ``params`` – parameters for the method
+
+### License
+[MIT](https://github.com/truerenton/Mongopromise/blob/master/LICENSE)
