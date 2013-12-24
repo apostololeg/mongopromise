@@ -1,5 +1,5 @@
 ## Mongopromise
-Wrap over Mongoskin for easy access to databases and collestions.
+Wrap over Mongoskin for easy access to databases and collections.
 
 ### Methods
 
@@ -12,7 +12,7 @@ Wrap over Mongoskin for easy access to databases and collestions.
 [Full list of opportunities](http://docs.mongodb.org/manual/reference/method)
 
 ### Example
-```
+```js
 var db = new Database('test');
 
 db.collection('mycollection')
@@ -49,7 +49,7 @@ db.collection('mycollection')
 #### .then()
 Link of the chain of asynchronous method calls collections.
 
-```
+```js
 ...
 .then(function(res) {
     return res.ctx.< method >(params);
