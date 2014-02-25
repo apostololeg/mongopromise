@@ -2,6 +2,10 @@
     "name": "mongopromise",
     "version": "0.0.1",
     "main": "./mongopromise.js",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/truerenton/Mongopromise.git"
+    },
     "dependencies": {
         "vow": "",
         "mongoskin": ""
