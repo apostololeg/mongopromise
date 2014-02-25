@@ -1,15 +1,29 @@
 {
     "name": "mongopromise",
     "version": "0.0.1",
+    "author": "Oleg Apostol <truerenton@gmail.com>",
+    "description": "Wrap over Mongoskin for easy access to databases and collections.",
+    "contributors": [
+        {
+          "name": "Oleg Apostol",
+          "email": "truerenton@gmail.com"
+        }
+    ],
     "main": "./mongopromise.js",
     "repository": {
         "type": "git",
-        "url": "http://github.com/truerenton/Mongopromise.git"
+        "url": "https://github.com/truerenton/Mongopromise.git"
     },
+    "keywords": [
+        "mongo",
+        "promise"
+    ],
     "dependencies": {
         "vow": "",
         "mongoskin": ""
     },
+    "analyze": true,
+    "license": "MIT",
     "engines": {
         "node": ">=0.10.0"
     }
