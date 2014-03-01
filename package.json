@@ -1,6 +1,6 @@
 {
     "name": "mongopromise",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Oleg Apostol <truerenton@gmail.com>",
     "description": "Wrap over Mongoskin for easy access to databases and collections.",
     "contributors": [
